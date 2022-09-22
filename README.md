@@ -3,13 +3,7 @@
  
 [Caj2Pdf在线演示](https://caj2pdf.cn/ "Caj2Pdf在线演示")
 
-# 示例截图
-
-![首页](https://bookcodes.cn/projects/sandbox/202207/17027d50729586eb.png)
-
 ------------
-
-![转换页](https://bookcodes.cn/projects/sandbox/202207/17027d5ade338bf5.png)
 
 # 项目源码
 项目源码在整理后会开放出。目前代码及其不规范...
